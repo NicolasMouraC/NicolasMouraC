@@ -1,8 +1,7 @@
 ### Hi, i'm Nicolas 😃👍
-- 🔭 I’m currently working on front-end development
-- 🌱 I’m currently learning full-stack development
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with back-end development
+- 🔭 I’m currently working on: Front-End development
+- 🌱 I’m currently learning: Full-Stack development
+- 👯 I’m looking to collaborate on: Open source projects
 <!--- 💬 Ask me about: -->
 - 📫 How to reach me: Nicolasoutrog@gmail.com
 - 😄 Pronouns: He/Him
