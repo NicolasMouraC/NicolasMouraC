@@ -30,4 +30,6 @@
   
  <div>
    <a href="https://www.linkedin.com/in/nicolas-moura-b677b8232/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   
+   ![Snake animation](https://github.com/NicolasMouraC/NicolasMouraC/blob/output/github-contribution-grid-snake.svg)
  </div>
