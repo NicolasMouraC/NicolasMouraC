@@ -1,6 +1,6 @@
 ### Hi, i'm Nicolas 😃👍
 - 🔭 I’m currently working on: Front-End development
-- 🌱 I’m currently learning: Full-Stack development
+- 🌱 I’m currently learning: Web advanced concepts (SEO, Acessibility...)
 - 👯 I’m looking to collaborate on: Open source projects
 <!--- 💬 Ask me about: -->
 - 📫 How to reach me: Nicolasoutrog@gmail.com
