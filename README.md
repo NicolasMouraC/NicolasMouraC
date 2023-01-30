@@ -1,4 +1,4 @@
-### Hi, i'm [Nicolas](nicolasmoura.online) 😃👍
+### Hi, i'm [Nicolas](https://nicolasmoura.online) 😃👍
 - 🔭 I’m currently working on: Front-End development
 - 🌱 I’m currently learning: Web advanced concepts (SEO, Acessibility...)
 - 👯 I’m looking to collaborate on: Open source projects
