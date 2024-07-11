@@ -1,7 +1,7 @@
 ### Hi, i'm [Nicolas](https://nicolasmoura.online), Click on my name to know me more 😃👍
-- 🔭 I’m currently working on: Front-End development
-- 🌱 I’m currently learning: React Native
-- 👯 I’m looking to collaborate on: Open source projects
+- 🔭 I’m currently working on: Full-Stack Development
+- 🌱 I’m currently learning: AI programming
+- 👯 I’m looking to collaborate on: Web3 projects
 <!--- 💬 Ask me about: -->
 - 📫 How to reach me: Nicolasoutrog@gmail.com
 - 😄 Pronouns: He/Him
