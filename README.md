@@ -1,4 +1,4 @@
-### Hi, i'm [Nicolas](https://nicolasmoura.online), Click on my name to know me more 😃👍
+### Hi, i'm Nicolas 😃👍
 - 🔭 I’m currently working on: Full-Stack Development
 - 🌱 I’m currently learning: AI programming
 - 👯 I’m looking to collaborate on: Web3 projects
