@@ -1,10 +1,9 @@
 ### Hi, i'm Nicolas 😃👍
-- 🔭 I’m currently working on: Full-Stack Development
+- 🔭 I’m currently working on: Full Stack Development
 - 🌱 I’m currently learning: AI programming
 - 👯 I’m looking to collaborate on: Web3 projects
 <!--- 💬 Ask me about: -->
 - 📫 How to reach me: Nicolasoutrog@gmail.com
-- 😄 Pronouns: He/Him
 
 ##
 
